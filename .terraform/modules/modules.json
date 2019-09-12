@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"yugabyte-db-cluster","Source":"github.com/YugaByte/terraform-gcp-yugabyte.git","Dir":".terraform/modules/yugabyte-db-cluster"}]}
